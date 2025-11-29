@@ -43,7 +43,7 @@ TenCoin (TEC) is a blockchain network that provides secure and autonomous transa
 ---
 
 ## Technical Details
-- **Consensus:** PoW initially, upgradeable to PoS in the future.
+- **Consensus:** PoW.
 - **Halving:** every 100,000 blocks, initial block reward 50 TEC.  
 - **Transaction Fees:** only a standard fee paid to miners.  
 - **Script behavior:** timer or verify-code conditions stored at the output script level; executed when conditions are met.  
