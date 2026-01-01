@@ -32,7 +32,7 @@ TenCoin (TEC) is a blockchain network that provides secure and autonomous transa
 ## Key Features
 - **UTXO-based transaction model** for transparency and security.  
 - **Timer and verify-code scripts**: conditional execution stored at the script level.  
-- **Single transaction fee**: standard fee paid to miners, no additional completed_fee.  
+- **Single transaction fee**: standard fee paid to miners 
 - **Multisig & advanced scripts**: supports timelock, multisignature, and custom conditions.  
 - **P2P network** with dedicated ports:
   - Mainnet: `10110` (P2P), `10111` (RPC)
